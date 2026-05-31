@@ -9,7 +9,7 @@ Users can search locations and instantly view temperature, weather condition, hu
 ## Live Demo
 
 🚀 Live Project:  
-(Add deployed link here)
+https://aether-weather-dun.vercel.app/
 
 ---
 
