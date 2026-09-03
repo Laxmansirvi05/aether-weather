@@ -126,13 +126,19 @@ npm run dev
 
 Vite will provide the local development URL in the terminal.
 
-### 4. Create a production build
+### 4. Run lint checks
+
+```bash
+npm run lint
+```
+
+### 5. Create a production build
 
 ```bash
 npm run build
 ```
 
-### 5. Preview the production build
+### 6. Preview the production build
 
 ```bash
 npm run preview
