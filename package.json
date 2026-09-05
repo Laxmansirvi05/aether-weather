@@ -1,7 +1,8 @@
 {
-  "name": "temp-scaffold",
+  "name": "aether-weather",
   "private": true,
   "version": "0.0.0",
+  "description": "Responsive weather dashboard powered by Open-Meteo.",
   "type": "module",
   "scripts": {
     "dev": "vite",
