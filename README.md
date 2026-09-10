@@ -81,7 +81,7 @@ All three services are used directly from the frontend and do not require an API
 
 ### 7-Day Forecast
 
-<img width="2048" height="1326" alt="Aether Weather 7-day forecast" src="https://github.com/user-attachments/assets/a19e153b-4377-4509-bc2b-c3d05f4f37f3" />
+<img width="2048" height="1326" alt="Aether Weather 7-day forecast" src="https://github.com/user-attachments/assets/a19e153b-b437-4509-bc2b-c3d05f4f37f3" />
 
 ## 📂 Project Structure
 
@@ -126,13 +126,17 @@ npm run dev
 
 Vite will provide the local development URL in the terminal.
 
-### 4. Run lint checks
+### 4. Verify the project
+
+Run the combined check before opening a PR or deploying:
 
 ```bash
-npm run lint
+npm run check
 ```
 
-### 5. Create a production build
+This runs the ESLint checks and then creates a production build.
+
+### 5. Create a production build manually
 
 ```bash
 npm run build
